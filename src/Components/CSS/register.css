@@ -1,0 +1,20 @@
+
+
+#phone-number
+{
+    width: 70%;
+    margin: auto;
+}
+
+.btn-otp
+{
+    width: 27%;
+    margin-left: 3%;
+    height: 40px;
+    border-radius: 19px;
+}
+
+.text-danger
+{
+    font-size: 0.8em;
+}
